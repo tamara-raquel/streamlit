@@ -1,11 +1,11 @@
 # simple stock price app
-* App utilizando streamlit e python *
+*App utilizando streamlit e python*
 
 Este app plota gráficos do preço de fechamento e volume por ação.
 
 ## Para rodar a aplicação:
 
-cdm: streamlit run simple-stock-price-app.py
+cmd: streamlit run simple-stock-price-app.py
 
 ### É necessário:
 
